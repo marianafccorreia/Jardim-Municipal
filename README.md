@@ -1,16 +1,55 @@
-# React + Vite
+# 🌿 Jardim Botânico Municipal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Criação do website institucional do **Jardim Botânico Municipal**, com o objetivo de divulgar o espaço junto de residentes, turistas, escolas e investigadores, promover a educação ambiental, facilitar a organização de visitas e reforçar a imagem do jardim como património natural e cultural da cidade.
 
-Currently, two official plugins are available:
+🔗 **Aceder ao Website:** [https://github.io](https://github.io)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎯 Objetivos do Projeto
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Divulgação:** Dar a conhecer a história, a biodiversidade e os espaços do jardim.
+* **Educação Ambiental:** Sensibilizar a comunidade e apoiar visitas de estudo e investigação.
+* **Informação Útil:** Facilitar o planeamento de visitas com horários, localização e contactos.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Tech Stack
+
+Tecnologias e ferramentas utilizadas no desenvolvimento deste projeto:
+
+![React](https://shields.io)
+![Vite](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![ESLint](https://shields.io)
+![GitHub Pages](https://shields.io)
+
+---
+
+## 🚀 Como executar o projeto localmente
+
+Se quiseres correr o projeto no teu computador, segue estes passos:
+
+1. **Clonar o repositório:**
+   ```bash
+   git clone https://github.com
+   ```
+
+2. **Instalar as dependências:**
+   ```bash
+   npm install
+   ```
+
+3. **Iniciar o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 👩‍💻 Autoria
+
+Desenvolvido por **Mariana Correia**  
+[![GitHub](https://shields.io)](https://github.com)
