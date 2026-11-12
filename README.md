@@ -19,7 +19,7 @@ Criação do website institucional do **Jardim Botânico Municipal**, com o obje
 
 Tecnologias e ferramentas utilizadas no desenvolvimento deste projeto:
 
-![React](https://shields.io)
+![React](https://shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://shields.io)
 ![JavaScript](https://shields.io)
 ![HTML5](https://shields.io)
