@@ -4,6 +4,7 @@ Criação do website institucional do **Jardim Botânico Municipal**, com o obje
 
 🔗 **Aceder ao Website:** [https://github.io](https://github.io)
 
+
 ---
 
 ## 🎯 Objetivos do Projeto
@@ -35,7 +36,7 @@ Se quiseres correr o projeto no teu computador, segue estes passos:
 1. **Clonar o repositório:**
    ```bash
    git clone https://github.com
-   ```
+
 
 2. **Instalar as dependências:**
    ```bash
