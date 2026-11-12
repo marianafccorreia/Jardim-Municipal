@@ -1,3 +1,5 @@
+import Reveal from './Reveal';
+
 const whyCards = [
   {
     title: 'Mais de 2000 espécies',
@@ -17,13 +19,17 @@ function WhyVisit() {
   return (
     <section className="why-visit">
       <div className="container">
-        <h2>Porquê Visitar</h2>
+        <Reveal>
+          <h2>Porquê Visitar</h2>
+        </Reveal>
         <div className="why-visit-grid">
-          {whyCards.map((card) => (
-            <article className="why-card" key={card.title}>
-              <h3>{card.title}</h3>
-              <p>{card.text}</p>
-            </article>
+          {whyCards.map((card, index) => (
+            <Reveal key={card.title} delay={index * 0.15}>
+              <article className="why-card">
+                <h3>{card.title}</h3>
+                <p>{card.text}</p>
+              </article>
+            </Reveal>
           ))}
         </div>
       </div>
