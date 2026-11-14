@@ -2,7 +2,7 @@
 
 Criação do website institucional do **Jardim Botânico Municipal**, com o objetivo de divulgar o espaço junto de residentes, turistas, escolas e investigadores, promover a educação ambiental, facilitar a organização de visitas e reforçar a imagem do jardim como património natural e cultural da cidade.
 
-🔗 **Aceder ao Website:** [https://github.io](https://github.io)
+🔗 **Aceder ao Website:** [https://marianafccorreia.github.io/Jardim-Municipal/]([https://github.io](https://marianafccorreia.github.io/Jardim-Municipal/))
 
 
 ---
